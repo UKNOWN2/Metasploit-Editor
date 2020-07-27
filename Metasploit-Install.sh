@@ -1,4 +1,7 @@
 clear
+chmod +x Metasploit-Uninstall.sh
+chmod +x update.sh
+chmod +x stsvr.sh
 echo " >>>>>>>>>>METASPLOIT INSTALLATION STARTED<<<<<<<<<< "
 echo "To Terminate press ^C"
 sleep 4.0
