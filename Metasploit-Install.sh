@@ -27,5 +27,4 @@ bash fix-ruby-bigdecimal.sh.txt
 gem install rubygems-update
 update_rubygems
 gem install -j5
-
 echo " INSTALLATION COMPLETED "
