@@ -1,2 +1,2 @@
 # Metasploit-Install
-This repository is made to download metasploit-framewok in Linux terminal
+This repository is dedicated to metasploit-framewok in Linux terminal
