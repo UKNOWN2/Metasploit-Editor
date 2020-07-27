@@ -27,5 +27,6 @@ bash fix-ruby-bigdecimal.sh.txt
 gem install rubygems-update
 update_rubygems
 gem install -j5
-
+cd $HOME/Metasploit-Editor
+cp stsvr.sh $HOME/metasploit-framework
 echo " INSTALLATION COMPLETED "
